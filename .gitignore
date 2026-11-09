@@ -1,0 +1,7 @@
+dataset/
+runs/
+outputs/
+.venv/
+venv/
+__pycache__/
+*.pyc
